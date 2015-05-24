@@ -48,3 +48,8 @@ $.fn.slowautoscroll = function(options) {
 
   return this;
 };
+
+$(function(){
+  $('body,html').slowautoscroll({
+  });
+});

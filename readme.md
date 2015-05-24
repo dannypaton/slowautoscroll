@@ -10,14 +10,13 @@ The page will scroll at certain speeds selected by the user without having to us
 
 3. Copy and paste the 'slowautoscroll.css' file from the downloaded folder to your CSS folder
 
-4. Copy and paste the 'slowautoscroll.js' AND 'function.slowautoscroll.js' files from the downloaded folder to your Javascript folder
+4. Copy and paste the 'slowautoscroll.js' file from the downloaded folder to your Javascript folder
 
 5. Copy and paste the following code in the head section of your HTML (these will link the CSS, jQuery and Javascript files to your site)
 ```html
 <link rel="stylesheet" type="text/css" href="css/slowautoscroll.css">
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
 <script type="text/javascript" src="js/slowautoscroll.js"></script>
-<script type="text/javascript" src="js/function.slowautoscroll.js"></script>
 ```
 ##Including Slow Auto Scroll in your HTML
 6. Copy and paste the following code into your HTML body to use the animal images provided
