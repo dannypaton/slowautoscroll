@@ -15,8 +15,8 @@ The page will scroll at certain speeds selected by the user without having to us
 5. Copy and paste the following code in the head section of your HTML (these will link the CSS, jQuery and Javascript files to your site)
 ```html
 <link rel="stylesheet" type="text/css" href="css/slowautoscroll.css">
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
 <script type="text/javascript" src="js/slowautoscroll.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
 ```
 ##Including Slow Auto Scroll in your HTML
 6. Copy and paste the following code into your HTML body to use the animal images provided
@@ -35,4 +35,4 @@ The page will scroll at certain speeds selected by the user without having to us
 That's it! The plugin will now show up on your page.
 Happy scrolling!
 ##Example
-[See a demo of Slow Auto Scroll](http://dannypaton.github.io/slowautoscroll-plugin/)
+[See a demo of Slow Auto Scroll](http://dannypaton.github.io/slowautoscroll/demo)
