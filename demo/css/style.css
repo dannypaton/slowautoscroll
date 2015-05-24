@@ -1,0 +1,162 @@
+/* Demo Settings */
+body {
+  margin: 0px;
+  padding: 0px;
+  font-size: 16px;
+  background: lightskyblue;
+}
+img.post {
+  display: block;
+  margin: 15px auto 0;
+  padding-bottom: 10px;
+  max-width: 100%;
+}
+.contentCode {
+  font-family: monospace, sans-serif;
+  border-color: 3px solid #fff;
+  padding: 20px;
+  background-color: #E3E6E9;
+  margin: 30px 160px;
+}
+p {
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+}
+h1 {
+  top: 0;
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  padding: 15px 0;
+  text-align: center;
+  font-size: 50px;
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+}
+h2 {
+  text-align: left;
+  color: white;
+  font-size: 35px;
+  margin: 60px 150px;
+  font-family: 'Lato', sans-serif;
+}
+h3 {
+  text-align: center;
+  font-size: 24px;
+  margin: 25px 0 0 0;
+  font-family: 'Lato', sans-serif;
+}
+h4 {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  margin: 40px 150px 30px;
+  font-family: 'Lato', sans-serif;
+}
+h5 {
+  text-align: center;
+  color: white;
+  font-size: 35px;
+  margin: 60px 150px;
+  font-family: 'Lato', sans-serif;
+}
+.wrapper {
+  background: darkskyblue;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+}
+.top {
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  text-decoration: none;
+  color: white;
+}
+.mid {
+  margin: 60px 170px;
+}
+#content {
+  padding-top: 50px;
+}
+.img {
+  width: 80px;
+  height: 80px; 
+}
+.imgTop {
+  width: 50px;
+  height: 50px; 
+}
+::selection {
+  background: skyblue;
+}
+::-moz-selection {
+  background: skyblue;
+}
+
+/* Button Settings */
+button {
+  border: 3px solid #fff;
+  border-radius: 50px;
+  color: #fff;
+  padding: 14px 30px;
+  background: none;
+  font-family: 'Lato', helvetica, sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  margin-left: 35px;
+  transition: color 0.2s ease-in;
+  -webkit-transition: color 0.2s ease-in;
+}
+button:hover {
+  border: 3px solid #fff;
+  color: lightskyblue;
+  background: #fff;
+}
+
+button:hover a {
+  color: lightskyblue;
+}
+
+/* Plugin Settings */
+ul.scroller {
+  position: fixed;
+  top: 0;
+  right: 10px;
+  list-style-type: none;
+  padding: 0;
+}
+ul.speeds {
+  padding-left: 0;
+  display:none;
+  list-style-type: none;
+}
+ul.scroller li {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  margin-right: 10%;
+}
+ul.scroller li:hover {
+  background: rgba(255,255,255,0.4);
+  cursor: pointer;
+  border-radius: 20px;
+  margin-right: 10%;
+}
+.scroller li {
+  padding: 5px;
+  color: black;
+  position: relative;
+}
+.appear {
+  display: block;
+}
+.posts {
+  width: 50%;
+  margin: 0 auto;
+}
+
+/*
+The png's were made by: 
+      https://thenounproject.com/catalarem/ - Rémy Médard
+      https://thenounproject.com/pjsmits/ - Pieter J. Smits
+*/
